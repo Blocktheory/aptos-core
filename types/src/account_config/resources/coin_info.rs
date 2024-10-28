@@ -69,7 +69,7 @@ impl<C: CoinType> CoinInfoResource<C> {
         };
         Self {
             name: "AptosCoin".to_string().into_bytes(),
-            symbol: "APT".to_string().into_bytes(),
+            symbol: "BTC".to_string().into_bytes(),
             decimals: 8,
             supply: Some(aggregator),
             phantom_data: PhantomData,

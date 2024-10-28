@@ -49,7 +49,7 @@ spec aptos_framework::aptos_account {
     /// Enforcement: Formally verified via [high-level-req-6](deposit_coins).
     ///
     /// No.: 7
-    /// Requirement: When performing a batch transfer of Aptos Coin and/or a batch transfer of a custom coin type, it
+    /// Requirement: When performing a batch transfer of Nexio Coin and/or a batch transfer of a custom coin type, it
     /// should ensure that the vector containing destination addresses and the vector containing the corresponding
     /// amounts are equal in length.
     /// Criticality: Low

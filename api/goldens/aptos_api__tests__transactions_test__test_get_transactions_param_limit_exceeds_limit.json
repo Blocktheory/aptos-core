@@ -12487,7 +12487,7 @@
           "type": "0x1::coin::CoinInfo<0x1::aptos_coin::AptosCoin>",
           "data": {
             "decimals": 8,
-            "name": "Aptos Coin",
+            "name": "Nexio Coin",
             "supply": {
               "vec": [
                 {
@@ -12506,7 +12506,7 @@
                 }
               ]
             },
-            "symbol": "APT"
+            "symbol": "BTC"
           }
         },
         "type": "write_resource"
@@ -29948,7 +29948,7 @@
               "type": "0x1::coin::CoinInfo<0x1::aptos_coin::AptosCoin>",
               "data": {
                 "decimals": 8,
-                "name": "Aptos Coin",
+                "name": "Nexio Coin",
                 "supply": {
                   "vec": [
                     {
@@ -29967,7 +29967,7 @@
                     }
                   ]
                 },
-                "symbol": "APT"
+                "symbol": "BTC"
               }
             },
             "type": "write_resource"
